@@ -1,2 +1,2 @@
-# Funcao_calculadora
+# Função calculadora
  Exercício SOFTEX: ALUNO:  Artur henrique da costa santos
